@@ -195,7 +195,8 @@
       {
         "name": "Lào Cai",
         "capital": "Lào Cai",
-        "lat": 22.4857
+        "lat": 22.4857,
+        "long":103.873802
       },
       {
         "name": "Long An",

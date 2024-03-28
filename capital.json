@@ -1,0 +1,376 @@
+{
+    "provinces": [
+      {
+        "name": "An Giang",
+        "capital": "Long Xuyên",
+        "lat": 10.3754,
+        "long": 105.4186
+      },
+      {
+        "name": "Bà Rịa - Vũng Tàu",
+        "capital": "Vũng Tàu",
+        "lat": 10.3459,
+        "long": 107.0848
+      },
+      {
+        "name": "Bắc Giang",
+        "capital": "Bắc Giang",
+        "lat": 21.2787,
+        "long": 106.1944
+      },
+      {
+        "name": "Bắc Kạn",
+        "capital": "Bắc Kạn",
+        "lat": 22.1496,
+        "long": 105.8337
+      },
+      {
+        "name": "Bạc Liêu",
+        "capital": "Bạc Liêu",
+        "lat": 9.285,
+        "long": 105.7243
+      },
+      {
+        "name": "Bắc Ninh",
+        "capital": "Bắc Ninh",
+        "lat": 21.1861,
+        "long": 106.0636
+      },
+      {
+        "name": "Bến Tre",
+        "capital": "Bến Tre",
+        "lat": 10.2354,
+        "long": 106.375
+      },
+      {
+        "name": "Bình Định",
+        "capital": "Quy Nhơn",
+        "lat": 13.7915,
+        "long": 109.2282
+      },
+      {
+        "name": "Bình Dương",
+        "capital": "Thủ Dầu Một",
+        "lat": 11.1256,
+        "long": 106.6527
+      },
+      {
+        "name": "Bình Phước",
+        "capital": "Đồng Xoài",
+        "lat": 11.529,
+        "long": 106.9087
+      },
+      {
+        "name": "Bình Thuận",
+        "capital": "Phan Thiết",
+        "lat": 10.929,
+        "long": 108.1177
+      },
+      {
+        "name": "Cà Mau",
+        "capital": "Cà Mau",
+        "lat": 9.187,
+        "long": 105.15
+      },
+      {
+        "name": "Cao Bằng",
+        "capital": "Cao Bằng",
+        "lat": 22.6686,
+        "long": 106.2484
+      },
+      {
+        "name": "Đắk Lắk",
+        "capital": "Buôn Ma Thuột",
+        "lat": 12.6656,
+        "long": 108.0425
+      },
+      {
+        "name": "Đắk Nông",
+        "capital": "Gia Nghĩa",
+        "lat": 11.9134,
+        "long": 107.235
+      },
+      {
+        "name": "Điện Biên",
+        "capital": "Điện Biên Phủ",
+        "lat": 21.3843,
+        "long": 103.0096
+      },
+      {
+        "name": "Đồng Nai",
+        "capital": "Biên Hòa",
+        "lat": 10.9547,
+        "long": 106.8506
+      },
+      {
+        "name": "Đồng Tháp",
+        "capital": "Cao Lãnh",
+        "lat": 10.4643,
+        "long": 105.6255
+      },
+      {
+        "name": "Gia Lai",
+        "capital": "Plei Ku",
+        "lat": 13.9901,
+        "long": 108.2089
+      },
+      {
+        "name": "Hà Giang",
+        "capital": "Hà Giang",
+        "lat": 22.8251,
+        "long": 104.9831
+      },
+      {
+        "name": "Hà Nam",
+        "capital": "Phủ Lý",
+        "lat": 20.5473,
+        "long": 105.9227
+      },
+      {
+        "name": "Hà Tĩnh",
+        "capital": "Hà Tĩnh",
+        "lat": 18.3428,
+        "long": 105.9014
+      },
+      {
+        "name": "Hải Dương",
+        "capital": "Hải Dương",
+        "lat": 20.9306,
+        "long": 106.322
+      },
+      {
+        "name": "Hậu Giang",
+        "capital": "Vị Thanh",
+        "lat": 9.7844,
+        "long": 105.467
+      },
+      {
+        "name": "Hòa Bình",
+        "capital": "Hòa Bình",
+        "lat": 20.8081,
+        "long": 105.3346
+      },
+      {
+        "name": "Hưng Yên",
+        "capital": "Hưng Yên",
+        "lat": 20.6465,
+        "long": 106.0511
+      },
+      {
+        "name": "Khánh Hòa",
+        "capital": "Nha Trang",
+        "lat": 12.2388,
+        "long": 109.1966
+      },
+      {
+        "name": "Kiên Giang",
+        "capital": "Rạch Giá",
+        "lat": 10.0128,
+        "long": 105.0809
+      },
+      {
+        "name": "Kon Tum",
+        "capital": "Kon Tum",
+        "lat": 14.3586,
+        "long": 108.0049
+      },
+      {
+        "name": "Lai Châu",
+        "capital": "Lai Châu",
+        "lat": 22.3964,
+        "long": 103.4565
+      },
+      {
+        "name": "Lâm Đồng",
+        "capital": "Đà Lạt",
+        "lat": 11.9454,
+        "long": 108.448
+      },
+      {
+        "name": "Lạng Sơn",
+        "capital": "Lạng Sơn",
+        "lat": 21.8567,
+        "long": 106.7297
+      },
+      {
+        "name": "Lào Cai",
+        "capital": "Lào Cai",
+        "lat": 22.4857
+      },
+      {
+        "name": "Long An",
+        "capital": "Tân An",
+        "lat": 10.5411,
+        "long": 106.3489
+      },
+      {
+        "name": "Nam Định",
+        "capital": "Nam Định",
+        "lat": 20.4245,
+        "long": 106.1739
+      },
+      {
+        "name": "Nghệ An",
+        "capital": "Viñh",
+        "lat": 18.6734,
+        "long": 105.6923
+      },
+      {
+        "name": "Ninh Bình",
+        "capital": "Ninh Bình",
+        "lat": 20.2526,
+        "long": 105.975
+      },
+      {
+        "name": "Ninh Thuận",
+        "capital": "Phan Rang–Tháp Chàm",
+        "lat": 11.5666,
+        "long": 108.9876
+      },
+      {
+        "name": "Phú Thọ",
+        "capital": "Việt Trì",
+        "lat": 21.3264,
+        "long": 105.405
+      },
+      {
+        "name": "Phú Yên",
+        "capital": "Tuy Hòa",
+        "lat": 13.0882,
+        "long": 109.0929
+      },
+      {
+        "name": "Quảng Bình",
+        "capital": "Đồng Hới",
+        "lat": 17.4827,
+        "long": 106.6004
+      },
+      {
+        "name": "Quảng Nam",
+        "capital": "Tam Kỳ",
+        "lat": 15.573,
+        "long": 108.4743
+      },
+      {
+        "name": "Quảng Ngãi",
+        "capital": "Quảng Ngãi",
+        "lat": 15.119,
+        "long": 108.8017
+      },
+      {
+        "name": "Quảng Ninh",
+        "capital": "Hạ Long",
+        "lat": 20.9504,
+        "long": 107.0731
+      },
+      {
+        "name": "Quảng Trị",
+        "capital": "Đông Hà",
+        "lat": 16.8106,
+        "long": 107.0926
+      },
+      {
+        "name": "Sóc Trăng",
+        "capital": "Sóc Trăng",
+        "lat": 9.6015,
+        "long": 105.9715
+      },
+      {
+        "name": "Sơn La",
+        "capital": "Sơn La",
+        "lat": 21.1474,
+        "long": 104.0499
+      },
+      {
+        "name": "Tây Ninh",
+        "capital": "Tây Ninh",
+        "lat": 11.3345,
+        "long": 106.1194
+      },
+      {
+        "name": "Thái Bình",
+        "capital": "Thái Bình",
+        "lat": 20.4532,
+        "long": 106.3439
+      },
+      {
+        "name": "Thái Nguyên",
+        "capital": "Thái Nguyên",
+        "lat": 21.5928,
+        "long": 105.8442
+      },
+      {
+        "name": "Thanh Hóa",
+        "capital": "Thanh Hóa",
+        "lat": 19.8079,
+        "long": 105.7761
+      },
+      {
+        "name": "Thừa Thiên Huế",
+        "capital": "Huế",
+        "lat": 16.4637,
+        "long": 107.5909
+      },
+      {
+        "name": "Tiền Giang",
+        "capital": "Mỹ Tho",
+        "lat": 10.3544,
+        "long": 106.3698
+      },
+      {
+        "name": "Trà Vinh",
+        "capital": "Trà Vinh",
+        "lat": 9.9372,
+        "long": 106.3456
+      },
+      {
+        "name": "Tuyên Quang",
+        "capital": "Tuyên Quang",
+        "lat": 21.8235,
+        "long": 105.2183
+      },
+      {
+        "name": "Vĩnh Long",
+        "capital": "Vĩnh Long",
+        "lat": 10.2534,
+        "long": 105.9728
+      },
+      {
+        "name": "Vĩnh Phúc",
+        "capital": "Vĩnh Yên",
+        "lat": 21.307,
+        "long": 105.5959
+      },
+      {
+        "name": "Yên Bái",
+        "capital": "Yên Bái",
+        "lat": 21.7224,
+        "long": 104.911
+      },
+      {
+        "name": "Đà Nẵng",
+        "capital": "Đà Nẵng",
+        "lat": 16.0544,
+        "long": 108.2022
+      },
+      {
+        "name": "Hải Phòng",
+        "capital": "Hải Phòng",
+        "lat": 20.862,
+        "long": 106.6801
+      },
+      {
+        "name": "Hà Nội",
+        "capital": "Hà Nội",
+        "lat": 21.0285,
+        "long": 105.8542
+      },
+      {
+        "name": "Hồ Chí Minh",
+        "capital": "Hồ Chí Minh",
+        "lat": 10.8231,
+        "long": 106.6297
+      }
+    ]
+  }
+  

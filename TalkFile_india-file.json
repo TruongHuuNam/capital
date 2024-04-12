@@ -1,812 +1,814 @@
-[
- {
+{
+    "Del":
+    {
   "city": "Delhi",
   "lat": 28.61,
   "lng": 77.23
  },
- {
+ "Mum": {
   "city": "Mumbai",
   "lat": 19.0761,
   "lng": 72.8775
  },
- {
+ "Kol":{
   "city": "Kolkāta",
   "lat": 22.5675,
   "lng": 88.37
  },
- {
+ "Ban":{
   "city": "Bangalore",
   "lat": 12.9789,
   "lng": 77.5917
  },
- {
+ "Che":{
   "city": "Chennai",
   "lat": 13.0825,
   "lng": 80.275
  },
- {
+ "Hyd":{
   "city": "Hyderābād",
   "lat": 17.3617,
   "lng": 78.4747
  },
- {
+ "Pun":{
   "city": "Pune",
   "lat": 18.5203,
   "lng": 73.8567
  },
- {
+ "Ahm":{
   "city": "Ahmedabad",
   "lat": 23.0225,
   "lng": 72.5714
  },
- {
+ "Sūr":{
   "city": "Sūrat",
   "lat": 21.1702,
   "lng": 72.8311
  },
- {
+ "Luc":{
   "city": "Lucknow",
   "lat": 26.85,
   "lng": 80.95
  },
- {
+ "Jai":{
   "city": "Jaipur",
   "lat": 26.9,
   "lng": 75.8
  },
- {
+ "Kan":{
   "city": "Kanpur",
   "lat": 26.4499,
   "lng": 80.3319
  },
- {
+ "Mir":{
   "city": "Mirzāpur",
   "lat": 25.146,
   "lng": 82.569
  },
- {
+ "Nāg":{
   "city": "Nāgpur",
   "lat": 21.1497,
   "lng": 79.0806
  },
- {
+ "Ghā": {
   "city": "Ghāziābād",
   "lat": 28.67,
   "lng": 77.42
  },
- {
+ "Sup":{
   "city": "Supaul",
   "lat": 26.126,
   "lng": 86.605
  },
- {
+ "Vad":{
   "city": "Vadodara",
   "lat": 22.3,
   "lng": 73.2
  },
- {
+ "Rāj":{
   "city": "Rājkot",
   "lat": 22.3,
   "lng": 70.7833
  },
+ "Vis":
  {
   "city": "Vishākhapatnam",
   "lat": 17.7042,
   "lng": 83.2978
  },
- {
+"Ind": {
   "city": "Indore",
   "lat": 22.7167,
   "lng": 75.8472
  },
- {
+"Thā": {
   "city": "Thāne",
   "lat": 19.1972,
   "lng": 72.9722
  },
- {
+ "Bho":{
   "city": "Bhopāl",
   "lat": 23.2599,
   "lng": 77.4126
  },
- {
+ "Pim":{
   "city": "Pimpri-Chinchwad",
   "lat": 18.6186,
   "lng": 73.8037
  },
- {
+ "Pat":{
   "city": "Patna",
   "lat": 25.594,
   "lng": 85.1376
  },
- {
+ "Bil":{
   "city": "Bilāspur",
   "lat": 22.09,
   "lng": 82.15
  },
- {
+ "Lud":{
   "city": "Ludhiāna",
   "lat": 30.91,
   "lng": 75.85
  },
- {
+ "Āgr":{
   "city": "Āgra",
   "lat": 27.18,
   "lng": 78.02
  },
- {
+"Mad": {
   "city": "Madurai",
   "lat": 9.9252,
   "lng": 78.1198
  },
- {
+ "Jam":{
   "city": "Jamshedpur",
   "lat": 22.7925,
   "lng": 86.1842
  },
- {
+ "Pra":{
   "city": "Prayagraj",
   "lat": 25.4358,
   "lng": 81.8464
  },
- {
+ "Nās":{
   "city": "Nāsik",
   "lat": 19.9975,
   "lng": 73.7898
  },
- {
+ "Far":{
   "city": "Farīdābād",
   "lat": 28.4211,
   "lng": 77.3078
  },
- {
+ "Mee":{
   "city": "Meerut",
   "lat": 28.98,
   "lng": 77.71
  },
- {
+ "Jab":{
   "city": "Jabalpur",
   "lat": 23.1667,
   "lng": 79.9333
  },
- {
+ "Kal":{
   "city": "Kalyān",
   "lat": 19.2502,
   "lng": 73.1602
  },
- {
+ "Vas":{
   "city": "Vasai-Virar",
   "lat": 19.3607,
   "lng": 72.7956
  },
- {
+ "Naj":{
   "city": "Najafgarh",
   "lat": 28.6092,
   "lng": 76.9798
  },
- {
+ "Vār":{
   "city": "Vārānasi",
   "lat": 25.3189,
   "lng": 83.0128
  },
- {
+ "Srī":{
   "city": "Srīnagar",
   "lat": 34.09,
   "lng": 74.79
  },
- {
+ "Aur":{
   "city": "Aurangābād",
   "lat": 19.88,
   "lng": 75.32
  },
- {
+ "Dha":{
   "city": "Dhanbād",
   "lat": 23.7998,
   "lng": 86.4305
  },
- {
+ "Amr":{
   "city": "Amritsar",
   "lat": 31.64,
   "lng": 74.86
  },
- {
+ "Alī":{
   "city": "Alīgarh",
   "lat": 27.88,
   "lng": 78.08
  },
- {
+ "Guw":{
   "city": "Guwāhāti",
   "lat": 26.1722,
   "lng": 91.7458
  },
- {
+ "Hāo":{
   "city": "Hāora",
   "lat": 22.58,
   "lng": 88.3294
  },
- {
+ "Rān":{
   "city": "Rānchi",
   "lat": 23.36,
   "lng": 85.33
  },
- {
+ "Gwa":{
   "city": "Gwalior",
   "lat": 26.2124,
   "lng": 78.1772
  },
- {
+ "Cha":{
   "city": "Chandīgarh",
   "lat": 30.75,
   "lng": 76.78
  },
- {
+ "Hal":{
   "city": "Haldwāni",
   "lat": 29.22,
   "lng": 79.52
  },
- {
+ "Vij":{
   "city": "Vijayavāda",
   "lat": 16.5193,
   "lng": 80.6305
  },
- {
+ "Jod":{
   "city": "Jodhpur",
   "lat": 26.28,
   "lng": 73.02
  },
- {
+ "Rai":{
   "city": "Raipur",
   "lat": 21.2444,
   "lng": 81.6306
  },
- {
+ "Kot":{
   "city": "Kota",
   "lat": 25.18,
   "lng": 75.83
  },
- {
+ "Bha":{
   "city": "Bhayandar",
   "lat": 19.29,
   "lng": 72.85
  },
- {
+ "Lon":{
   "city": "Loni",
   "lat": 28.75,
   "lng": 77.28
  },
- {
+ "Amb":{
   "city": "Ambattūr",
   "lat": 13.1143,
   "lng": 80.1548
  },
- {
+ "Sal":{
   "city": "Salt Lake City",
   "lat": 22.61,
   "lng": 88.4
  },
- {
+ "Bhā":{
   "city": "Bhātpāra",
   "lat": 22.87,
   "lng": 88.41
  },
- {
+ "Kūk":{
   "city": "Kūkatpalli",
   "lat": 17.4849,
   "lng": 78.4138
  },
- {
+ "Dās":{
   "city": "Dāsarhalli",
   "lat": 13.0465,
   "lng": 77.513
  },
- {
+ "Muz":{
   "city": "Muzaffarpur",
   "lat": 26.1225,
   "lng": 85.3906
  },
- {
+ "Oul":{
   "city": "Oulgaret",
   "lat": 11.957,
   "lng": 79.7737
  },
- {
+ "New":{
   "city": "New Delhi",
   "lat": 28.6139,
   "lng": 77.2089
  },
- {
+"Tir": {
   "city": "Tiruvottiyūr",
   "lat": 13.16,
   "lng": 80.3
  },
- {
+ "Pud":{
   "city": "Puducherry",
   "lat": 11.9167,
   "lng": 79.8167
  },
- {
+ "Bya":{
   "city": "Byatarayanpur",
   "lat": 13.0659,
   "lng": 77.5922
  },
- {
+ "Pal":{
   "city": "Pallāvaram",
   "lat": 12.9675,
   "lng": 80.1491
  },
- {
+ "Sec":{
   "city": "Secunderābād",
   "lat": 17.4399,
   "lng": 78.4983
  },
- {
+ "Shi":{
   "city": "Shimla",
   "lat": 31.1033,
   "lng": 77.1722
  },
- {
+ "Pur":{
   "city": "Puri",
   "lat": 19.8,
   "lng": 85.8167
  },
- {
+ "Mur":{
   "city": "Murtazābād",
   "lat": 28.7111,
   "lng": 77.2688
  },
- {
+ "Shr":{
   "city": "Shrīrāmpur",
   "lat": 22.75,
   "lng": 88.34
  },
- {
+ "Chan":{
   "city": "Chandannagar",
   "lat": 22.87,
   "lng": 88.38
  },
- {
+ "Sul":{
   "city": "Sultānpur Mazra",
   "lat": 28.6981,
   "lng": 77.0689
  },
- {
+ "Kri":{
   "city": "Krishnanagar",
   "lat": 23.4,
   "lng": 88.5
  },
- {
+ "Bār":{
   "city": "Bārākpur",
   "lat": 22.76,
   "lng": 88.37
  },
- {
+ "Bhāl":{
   "city": "Bhālswa Jahangirpur",
   "lat": 28.7354,
   "lng": 77.1638
  },
- {
+ "Nān":{
   "city": "Nāngloi Jāt",
   "lat": 28.6833,
   "lng": 77.0667
  },
- {
+ "Bal":{
   "city": "Balasore",
   "lat": 21.5033,
   "lng": 86.925
  },
- {
+ "Dal":{
   "city": "Dalūpura",
   "lat": 28.6004,
   "lng": 77.3194
  },
- {
+ "Yel":{
   "city": "Yelahanka",
   "lat": 13.1007,
   "lng": 77.5963
  },
- {
+ "Tit":{
   "city": "Titāgarh",
   "lat": 22.74,
   "lng": 88.37
  },
- {
+ "Dam":{
   "city": "Dam Dam",
   "lat": 22.62,
   "lng": 88.42
  },
- {
+ "Bān":{
   "city": "Bānsbāria",
   "lat": 22.97,
   "lng": 88.4
  },
- {
+ "Madh":{
   "city": "Madhavaram",
   "lat": 13.1482,
   "lng": 80.2314
  },
- {
+ "Abb":{
   "city": "Abbigeri",
   "lat": 13.0767,
   "lng": 77.525
  },
- {
+ "Baj":{
   "city": "Baj Baj",
   "lat": 22.4828,
   "lng": 88.1818
  },
- {
+ "Gar":{
   "city": "Garhi",
   "lat": 28.6317,
   "lng": 77.3186
  },
- {
+ "Mīr":{
   "city": "Mīrpeta",
   "lat": 17.32,
   "lng": 78.52
  },
- {
+ "Ner":{
   "city": "Nerkunram",
   "lat": 13.0619,
   "lng": 80.2094
  },
- {
+ "Ken":{
   "city": "Kendrāparha",
   "lat": 20.5,
   "lng": 86.42
  },
- {
+ "Sij":{
   "city": "Sijua",
   "lat": 23.7762,
   "lng": 86.3303
  },
- {
+ "Man":{
   "city": "Manali",
   "lat": 13.1667,
   "lng": 80.2667
  },
- {
+"Kān": {
   "city": "Kānkuria",
   "lat": 24.6523,
   "lng": 87.9604
  },
- {
+ "Chak":{
   "city": "Chakapara",
   "lat": 22.63,
   "lng": 88.35
  },
- {
+ "Pāp":{
   "city": "Pāppākurichchi",
   "lat": 10.8137,
   "lng": 78.7481
  },
- {
+ "Her":{
   "city": "Herohalli",
   "lat": 12.9911,
   "lng": 77.4873
  },
- {
+ "Madi":{
   "city": "Madipakkam",
   "lat": 12.9623,
   "lng": 80.1986
  },
- {
+ "Sab":{
   "city": "Sabalpur",
   "lat": 25.6053,
   "lng": 85.1835
  },
- {
+ "Bāu":{
   "city": "Bāuria",
   "lat": 22.4521,
   "lng": 88.1853
  },
- {
+ "Salu":{
   "city": "Salua",
   "lat": 22.61,
   "lng": 88.27
  },
- {
+ "Chi":{
   "city": "Chik Bānavar",
   "lat": 13.0846,
   "lng": 77.5014
  },
- {
+ "Jāl":{
   "city": "Jālhalli",
   "lat": 13.0333,
   "lng": 77.55
  },
- {
+ "Chin":{
   "city": "Chinnasekkadu",
   "lat": 13.1609,
   "lng": 80.2573
  },
- {
+ "Jet":{
   "city": "Jethuli",
   "lat": 25.5378,
   "lng": 85.2841
  },
- {
+ "Nag":{
   "city": "Nagtala",
   "lat": 22.4667,
   "lng": 88.3833
  },
- {
+ "Pak":{
   "city": "Pakri",
   "lat": 25.5876,
   "lng": 85.158
  },
- {
+ "Hun":{
   "city": "Hunasamaranhalli",
   "lat": 13.1435,
   "lng": 77.62
  },
- {
+ "Hes":{
   "city": "Hesarghatta",
   "lat": 13.1391,
   "lng": 77.4783
  },
- {
+ "Bom":{
   "city": "Bommayapālaiyam",
   "lat": 11.9922,
   "lng": 79.8499
  },
- {
+ "Gun":{
   "city": "Gundūr",
   "lat": 10.7339,
   "lng": 78.7184
  },
- {
+  "Punā": {
   "city": "Punādih",
   "lat": 25.5484,
   "lng": 85.2649
  },
- {
+ "Har": {
   "city": "Harilādih",
   "lat": 23.7333,
   "lng": 86.4
  },
- {
+ "Alā":{
   "city": "Alāwalpur",
   "lat": 25.4958,
   "lng": 85.2021
  },
- {
+ "Mād":{
   "city": "Mādnāikanhalli",
   "lat": 13.0626,
   "lng": 77.4642
  },
- {
+ "Bāg":{
   "city": "Bāgalūr",
   "lat": 13.133,
   "lng": 77.666
  },
- {
+ "Kād":{
   "city": "Kādiganahalli",
   "lat": 13.1687,
   "lng": 77.6283
  },
- {
+ "Khā":{
   "city": "Khānpur Zabti",
   "lat": 28.7103,
   "lng": 77.2781
  },
- {
+ "Mah":{
   "city": "Mahuli",
   "lat": 25.543,
   "lng": 85.2268
  },
- {
+ "Zey":{
   "city": "Zeyādah Kot",
   "lat": 22.4445,
   "lng": 88.3345
  },
- {
+ "Ars":{
   "city": "Arshakunti",
   "lat": 13.0785,
   "lng": 77.4225
  },
- {
+ "Mirc":{
   "city": "Mirchi",
   "lat": 25.5554,
   "lng": 85.2139
  },
- {
+ "Son":{
   "city": "Sonudih",
   "lat": 25.1155,
   "lng": 87.0214
  },
- {
+ "Bay":{
   "city": "Bayandhalli",
   "lat": 12.9779,
   "lng": 77.5688
  },
- {
+ "Sond":{
   "city": "Sondekoppa",
   "lat": 13,
   "lng": 77.3667
  },
- {
+ "Bab":{
   "city": "Babura",
   "lat": 25.0851,
   "lng": 87.1092
  },
- {
+ "Māda":{
   "city": "Mādavar",
   "lat": 13.0525,
   "lng": 77.4732
  },
- {
+ "Kad":{
   "city": "Kadabgeri",
   "lat": 12.9965,
   "lng": 77.4331
  },
- {
+ "Nan":{
   "city": "Nanmangalam",
   "lat": 12.9381,
   "lng": 80.1753
  },
- {
+ "Tal":{
   "city": "Taliganja",
   "lat": 22.5041,
   "lng": 88.3598
  },
- {
+ "Tar":{
   "city": "Tarchha",
   "lat": 25.1116,
   "lng": 87.0964
  },
- {
+ "Bel":{
   "city": "Belgharia",
   "lat": 22.6581,
   "lng": 88.3852
  },
- {
+ "Kam":{
   "city": "Kammanhalli",
   "lat": 13.0155,
   "lng": 77.6381
  },
- {
+ "Ambā":{
   "city": "Ambāpuram",
   "lat": 16.599,
   "lng": 80.8938
  },
- {
+ "Sonn":{
   "city": "Sonnappanhalli",
   "lat": 13.1557,
   "lng": 77.6179
  },
- {
+ "Ked":{
   "city": "Kedihāti",
   "lat": 22.6508,
   "lng": 88.4608
  },
- {
+ "Dod":{
   "city": "Doddajīvanhalli",
   "lat": 13.0086,
   "lng": 77.6143
  },
- {
+ "Sim":{
   "city": "Simli Murārpur",
   "lat": 25.5792,
   "lng": 85.2401
  },
- {
+ "Sonā":{
   "city": "Sonāwān",
   "lat": 25.5445,
   "lng": 85.2387
  },
- {
+ "Dev":{
   "city": "Devanandapur",
   "lat": 22.9326,
   "lng": 88.3729
  },
- {
+ "Tri":{
   "city": "Tribeni",
   "lat": 22.9867,
   "lng": 88.3987
  },
- {
+ "Hut":{
   "city": "Huttanhalli",
   "lat": 13.1651,
   "lng": 77.6512
  },
- {
+    "Nat": {
   "city": "Nathupur",
   "lat": 25.5163,
   "lng": 85.2544
  },
- {
+"Bāl": {
   "city": "Bāli",
   "lat": 25.481,
   "lng": 85.2227
  },
- {
+ "Vāj":{
   "city": "Vājarhalli",
   "lat": 13.1022,
   "lng": 77.4111
  },
- {
+ "Ali":{
   "city": "Alija Kotla",
   "lat": 17.2333,
   "lng": 78.55
  },
- {
+ "Sai":{
   "city": "Saino",
   "lat": 25.1134,
   "lng": 87.0108
  },
- {
+ "She":{
   "city": "Shekhpura",
   "lat": 25.5725,
   "lng": 85.1428
  },
- {
+ "Cāc":{
   "city": "Cāchohalli",
   "lat": 13.001,
   "lng": 77.4717
  },
- {
+ "And":{
   "city": "Andheri",
   "lat": 19.2104,
   "lng": 73.0464
  },
- {
+ "Nār":{
   "city": "Nārāyanpur Kola",
   "lat": 25.1293,
   "lng": 87.0076
  },
- {
+ "Gya":{
   "city": "Gyan Chak",
   "lat": 25.5496,
   "lng": 85.2423
  },
- {
+ "Kas":{
   "city": "Kasgatpur",
   "lat": 13.1101,
   "lng": 77.5045
  },
- {
+ "Kit":{
   "city": "Kitanelli",
   "lat": 13.0095,
   "lng": 77.4191
  },
- {
+ "Harc":{
   "city": "Harchandi",
   "lat": 25.1,
   "lng": 87.0442
  },
- {
+ "San":{
   "city": "Santoshpur",
   "lat": 22.465,
   "lng": 88.2193
  },
- {
+ "Ben":{
   "city": "Bendravādi",
   "lat": 12.3636,
   "lng": 76.9137
  },
- {
+ "Kod":{
   "city": "Kodagihalli",
   "lat": 12.9771,
   "lng": 77.4651
  },
- {
+ "Harn":{
   "city": "Harna Buzurg",
   "lat": 25.0981,
   "lng": 87.0148
  },
- {
+ "Mai":{
   "city": "Mailanhalli",
   "lat": 13.1863,
   "lng": 77.6963
  },
- {
+ "Sult":{
   "city": "Sultānpur",
   "lat": 25.5248,
   "lng": 85.2507
  },
- {
+ "Ada":{
   "city": "Adakimāranhalli",
   "lat": 13.0633,
   "lng": 77.4417
  }
-]
+}
